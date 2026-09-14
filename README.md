@@ -1,3 +1,6 @@
+> [!WARNING]
+> **⚠️ Repository MOVED / archived.** Development now lives at https://gitlab.castris.com/abkrim/rsync-time-backup — this repository receives no further changes.
+
 # Rsync time backup
 
 This script offers Time Machine-style backup using rsync. It creates incremental backups of files and directories to the destination of your choice. The backups are structured in a way that makes it easy to recover any file at any point in time.
